@@ -23,7 +23,6 @@ class Main extends Component {
     
     render() {
         console.log('main state', this.state);
-        debugger;
         const HomePage = () => {
             return (
                 <Home
